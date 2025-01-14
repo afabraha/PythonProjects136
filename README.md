@@ -30,5 +30,5 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Tools Used**: Python, Pandas, Logistic Regression, Scikit-Learn
 - **Highlights**:
   - Achieved 62% model accuracy.
-  - 
+    
  

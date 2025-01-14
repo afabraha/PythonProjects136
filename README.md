@@ -19,15 +19,16 @@ This repository showcases my data science projects, demonstrating my skills in P
   - Utilized key financial indicators like revenue and liabilities as input features.
 
 ### 3. Fortune 500 ML Analysis
-- **Objective**: Developed both a Support Vector Machine and Logistic Regression model to classify Fortune 500 companies as "Above Average Revenue" or "Below Average Revenue". 
-- **Tools Used**: Python, Pandas, Scikit-learn, Support Vector Machine, Logistic Regression
+- **Objective**: Developed both a Support Vector Machine and Logistic Regression model to classify Fortune 500 companies as "Above Average Revenue" or "Below Average Revenue" using input features such as profits, assets, and number of employees. 
+- **Tools Used**: Python, Pandas, Scikit-learn, Support Vector Machine, Logistic Regression, Matplotlib
 - **Highlights**:
   - Achieved 81% accuracy using Support Vector Machine model and 80% accuracy using Logistic Regression
-  - Utilized input features such as profits, assets, and number of employees.
+  - Displayed a horizontal barchart showing the importance of each of the features to the models.
 
 ### 4. National HMDA Project
 - **Objective**: Used a Logistic Regression model to predict whether particular combinations of features such as race, sex, applicant income, property type, and loan purpose would result in either a loan approval or denial.
 - **Tools Used**: Python, Pandas, Logistic Regression, Scikit-Learn
 - **Highlights**:
   - Achieved 62% model accuracy.
+  - 
  

@@ -1,0 +1,33 @@
+# PythonProjects136
+
+This repository showcases my data science projects, demonstrating my skills in Python and machine learning. 
+
+## Projects
+
+### 1.  Clustering Fortune 500 Companies
+- **Objective**: Group Fortune 500 companies based on revenue using k-means clustering.
+- **Tools Used**: Python, Pandas, Scikit-learn, Matplotlib.
+- **Highlights**:
+  - Clustered companies into three segments based on profitability.
+  - Created a csv file to show the companies broken down into their respective segments.
+
+### 2. Corporate Finance Data Project
+- **Objective**: Developed a Random Forest model to classify companies as High, Medium, or Low Profit.
+- **Tools Used**: Python, Pandas, Random Forest, Matplotlib, Scikit-Learn.
+- **Highlights**:
+  - Achieved 75% model accuracy.
+  - Utilized key financial indicators like revenue and liabilities as input features.
+
+### 3. Fortune 500 ML Analysis
+- **Objective**: Developed both a Support Vector Machine and Logistic Regression model to classify Fortune 500 companies as "Above Average Revenue" or "Below Average Revenue". 
+- **Tools Used**: Python, Pandas, Scikit-learn, Support Vector Machine, Logistic Regression
+- **Highlights**:
+  - Achieved 81% accuracy using Support Vector Machine model and 80% accuracy using Logistic Regression
+  - Utilized input features such as profits, assets, and number of employees.
+
+### 4. National HMDA Project
+- **Objective**: Used a Logistic Regression model to predict whether particular combinations of features such as race, sex, applicant income, property type, and loan purpose would result in either a loan approval or denial.
+- **Tools Used**: Python, Pandas, Logistic Regression, Scikit-Learn
+- **Highlights**:
+  - Achieved 62% model accuracy.
+ 

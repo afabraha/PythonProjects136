@@ -6,9 +6,9 @@ This repository showcases my data science projects, demonstrating my skills in P
 
 ### 1.  Clustering Fortune 500 Companies
 - **Objective**: Group Fortune 500 companies based on revenue using k-means clustering.
-- **Tools Used**: Python, Pandas, Scikit-learn, Matplotlib.
+- **Tools Used**: Python, Pandas, Scikit-learn, KMeans
 - **Highlights**:
-  - Clustered companies into three segments based on profitability.
+  - Clustered companies into four segments based on profitability.
   - Created a csv file to show the companies broken down into their respective segments.
 
 ### 2. Corporate Finance Data Project

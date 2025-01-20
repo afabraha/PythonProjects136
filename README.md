@@ -13,10 +13,10 @@ This repository showcases my data science projects, demonstrating my skills in P
 
 ### 2. Corporate Finance Data Project
 - **Objective**: Developed a Random Forest model to classify companies as High, Medium, or Low Profit.
-- **Tools Used**: Python, Pandas, Random Forest, Matplotlib, Scikit-Learn.
+- **Tools Used**: Python, Pandas, Random Forest, Scikit-Learn.
 - **Highlights**:
   - Achieved 75% model accuracy.
-  - Utilized key financial indicators like revenue and liabilities as input features.
+  - Analyzed feature importance and found that of the four input features that were used, total revenue, total assets, capital expenditures, and current ratio, the first two combined contributed to approximately 65% of the model. 
 
 ### 3. Fortune 500 ML Analysis
 - **Objective**: Developed both a Support Vector Machine and Logistic Regression model to classify Fortune 500 companies as "Above Average Revenue" or "Below Average Revenue" using input features such as profits, assets, and number of employees. 

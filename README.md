@@ -32,9 +32,5 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Highlights**:
   - Achieved an r2 score of approximately 0.84 using the Linear Regression model.
   - Found that the Linear Regression model is a better fit than the Deicison Tree Regression model due to its significantly lower mean squared error.
-### 5. National HMDA Project
-- **Objective**: Used a Logistic Regression model to predict whether particular combinations of features such as race, sex, applicant income, property type, and loan purpose would result in either a loan approval or denial.
-- **Tools Used**: Python, Pandas, Logistic Regression, Scikit-Learn
-- **Highlights**:
-  - Achieved 62% model accuracy. 
+
  

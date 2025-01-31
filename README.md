@@ -31,6 +31,13 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Tools Used**: Python, Pandas, Sklearn, Linear Regression, Decision Tree Regressor
 - **Highlights**:
   - Linear Regression model ahieved an r2 score of approximately 0.84 without cross validation and approximately 0.64 on average with cross validation. 
-  - Found that while the r2 score of the  Linear Regression model is much better (0.84) than the Decision Tree Regressor model (0.59) before cross validation, its average cross validation r2 score (0.64) was only slightly higher than that of the latter (0.62), indicating that there wasn't much of an advantage in choosing it over the latter. 
+  - Found that while the r2 score of the  Linear Regression model is much better (0.84) than the Decision Tree Regressor model (0.59) before cross validation, its average cross validation r2 score (0.64) was only slightly higher than that of the latter (0.62), indicating that there wasn't much of an advantage in choosing it over the latter.
+
+### 5. Medicare Drug Spending Regression Project
+- **Objective**: Developed both a Linear Regression model and a Random Forest Regressor model to predict total drug spending in 2022  based on previous years spending (2018 - 2021).
+- **Highlights**:
+  - Both models achieved an r2 score in the high 0.9s range as well as when cross validation was utilized.  
+  - The Random Forest Regression model had a much lower mean squared error (approximately 2.56 * 10^15) than the Linear Regression model (approximately 7.69*10^15), indicating that it could be considered more accurate. 
+
 
  

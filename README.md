@@ -30,7 +30,7 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Objective**: Developed a Linear Regression model to predict the corporate net income based on input features such as total revenue, total assets, and long term investments. Did the same thing but wiht a Decision Tree Regression model to compare the results with those of the former. 
 - **Tools Used**: Python, Pandas, Sklearn, Linear Regression, Decision Tree Regressor
 - **Highlights**:
-  - Achieved an r2 score of approximately 0.84 using the Linear Regression model.
-  - Found that the Linear Regression model is a better fit than the Decision Tree Regression model due to its significantly lower mean squared error and significantly higher r2 score. 
+  - Linear Regression model ahieved an r2 score of approximately 0.84 without cross validation and approximately 0.64 on average with cross validation. 
+  - Found that while the r2 score of the  Linear Regression model is much better (0.84) than the Decision Tree Regressor model (0.59) before cross validation, its average cross validation r2 score (0.64) was only slightly higher than that of the latter (0.62), indicating that there wasn't much of an advantage in choosing it over the latter. 
 
  

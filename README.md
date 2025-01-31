@@ -31,6 +31,6 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Tools Used**: Python, Pandas, Sklearn, Linear Regression, Decision Tree Regressor
 - **Highlights**:
   - Achieved an r2 score of approximately 0.84 using the Linear Regression model.
-  - Found that the Linear Regression model is a better fit than the Decision Tree Regression model due to its significantly lower mean squared error.
+  - Found that the Linear Regression model is a better fit than the Decision Tree Regression model due to its significantly lower mean squared error and significantly higher r2 score. 
 
  

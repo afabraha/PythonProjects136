@@ -27,7 +27,7 @@ This repository showcases my data science projects, demonstrating my skills in P
 
 
 ### 4. Company Data Regression ML
-- **Objective**: Developed a Linear Regression model to predict the corporate net income based on input features such as total revenue, total assets, and long term investments. Did the same thing but wiht a Decision Tree Regression model to compare the results with those of the former. 
+- **Objective**: Developed a Linear Regression model to predict the corporate net income based on input features such as total revenue, total assets, and long term investments. Did the same thing but with a Decision Tree Regression model to compare the results with those of the former. 
 - **Tools Used**: Python, Pandas, Sklearn, Linear Regression, Decision Tree Regressor
 - **Highlights**:
   - Linear Regression model ahieved an r2 score of approximately 0.84 without cross validation and approximately 0.64 on average with cross validation. 

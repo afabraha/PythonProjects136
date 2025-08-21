@@ -38,7 +38,13 @@ This repository showcases my data science projects, demonstrating my skills in P
 - **Tools Used**: Python, Pandas, Sci-kit learn, Linear Regression, Random Forest Regressor
 - **Highlights**:
   - Both models achieved an r2 score in the high 0.9s range as well as when cross validation was utilized.  
-  - The Random Forest Regression model had a much lower mean squared error (approximately 2.56 * 10^15) than the Linear Regression model (approximately 7.69*10^15), indicating that it could be considered more accurate. 
+  - The Random Forest Regression model had a much lower mean squared error (approximately 2.56 * 10^15) than the Linear Regression model (approximately 7.69*10^15), indicating that it could be considered more accurate.
+### 6. Adult Income Classification Project
+- **Objective**: Utilized both a Random Forest and Gradient Boosting model to predict whether adult incomes were above or below $50K.
+- **Tools Used**: Python, Pandas, Random Forest, Gradient Boosting, Scikit-Learn.
+- **Highlights**:
+  - Achieved 85% and 86% model accuracy for Random Forest and Gradient Boosting respectively.Cross-validation largely confirmed this result.  
+  - Analyzed feature importance and found that the most predictive features were relationship status, capital gain, and education status. 
 
 
  

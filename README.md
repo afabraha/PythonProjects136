@@ -19,21 +19,13 @@ This repository showcases my data science projects, demonstrating my skills in P
   - Did cross-validation and got an accuracy percentage that was very similar (approx. 79%). 
 
 
-### 3. Company Data Regression ML
-- **Objective**: Developed a Linear Regression model to predict the corporate net income based on input features such as total revenue, total assets, and long term investments. Did the same thing but with a Decision Tree Regression model to compare the results with those of the former. 
-- **Tools Used**: Python, Pandas, Scikit-Learn, Linear Regression, Decision Tree Regressor
-- **Highlights**:
-  - Linear Regression model ahieved an r2 score of approximately 0.84 without cross validation and approximately 0.64 on average with cross validation. 
-  - Found that while the r2 score of the  Linear Regression model is much better (0.84) than the Decision Tree Regressor model (0.59) before cross validation, its average cross validation r2 score (0.64) was only slightly higher than that of the latter (0.62), indicating that there wasn't much of an advantage in choosing it over the latter.
-
-
-### 4. Adult Income Classification Project
+### 3. Adult Income Classification Project
 - **Objective**: Utilized both a Random Forest and Gradient Boosting model to predict whether adult incomes were above or below $50K.
 - **Tools Used**: Python, Pandas, Random Forest, Gradient Boosting, Scikit-Learn.
 - **Highlights**:
   - Achieved 85% and 86% model accuracy for Random Forest and Gradient Boosting respectively.Cross-validation largely confirmed this result.  
   - Analyzed feature importance and found that the most predictive features were relationship status, capital gain, and education status.
-### 5. Real Estate Valuation Regression Project
+### 4. Real Estate Valuation Regression Project
 - **Objective**: Utilized Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regression, Random Forest Regression, Gradient Boosting Regression, and Bagging Regression to predict house prices. 
 - **Tools Used**: Python, Pandas, Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest, Gradient Boosting, Bagging, Scikit-Learn.
 - **Highlights**:
